@@ -1,0 +1,10 @@
+# service credentials
+PERSONALITY_INSIGHTS_USERNAME=
+PERSONALITY_INSIGHTS_PASSWORD=
+PERSONALITY_INSIGHTS_URL=https://gateway.watsonplatform.net/personality-insights/api
+
+PERSONALITY_INSIGHTS_IAM_APIKEY= "wlhsX4MWtatZmRmrfMI8oAgzi7_QitXUCG_x7bjcjlZV"
+# twitter credentials
+# see https://apps.twitter.com/
+TWITTER_CONSUMER_KEY= "2wlh0nt2brSHVR0bn6OznBV1v"
+TWITTER_CONSUMER_SECRET="Hkk9S9i1HuYDewCRBe84qzKojFGYGLxOIjL23XoCIP3Csnmt1"
